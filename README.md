@@ -55,8 +55,6 @@ First, we obtained general information from the dataset using bar charts. After 
     <i>Effect of <code>distanceToCapital</code> on <code>price</code></i>
 </p>
 
-<br>
-
 <table align="center">
     <tr>
         <td align="center">
@@ -80,13 +78,13 @@ First, we obtained general information from the dataset using bar charts. After 
     <i>This scatter map shows the distribution of houses with respect to their prices.</i>
 </p>
 
-<br>
-
 <p align="center">
     <img src="data/output/district-scatterplot.png" alt="District scatter plot" width="1000"/>
     <br/>
     <i>This scatter map shows the distribution of houses with respect to their districts.</i>
 </p>
+
+<br>
 
 <table align="center">
     <tr>
